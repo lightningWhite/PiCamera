@@ -5,6 +5,8 @@ I have been using the software found [here](https://github.com/silvanmelchior/RP
 
 So, I'm going to try and use the [Picamera2 library](https://datasheets.raspberrypi.com/camera/picamera2-manual.pdf).
 
+This was written up using the Raspberry Pi 4B and [this infra red camera module](https://www.amazon.com/Raspberry-Camera-Module-Infrared-Adjustable/dp/B08QFN1XDH/ref=sr_1_6?crid=3OA8QC2FPP1AF&dib=eyJ2IjoiMSJ9.NcoOAB0FWy2Ai7POkmeEaKgKeAcYot5sH0YTIbpySZmOfIcM1IkdpejR2khnasM3tFMojTai2lBIcFwUC24lLn_qKsDjNgM6w2BBFLk2N4jkTByHjaGFFD-suWv50QcZFfeGNBglXDhaHID4S7miFYCu3r29zFVo5Pj2s-JheSFljcY6hj7EuIQSjJdbFUSDY95a1JaLDbjc4EKqrc069gCJzSTHlBca5OVw1OFRghU.Dm1-lm5poVh8ai7KvqT-BwAzpU4nWj-67EE8nmEPOlA&dib_tag=se&keywords=infrared+raspberry+pi+camera&qid=1726959295&sprefix=infrared+raspberry+pi+camer%2Caps%2C154&sr=8-6).
+
 ## Flash the Pi
 
 Use Raspberry Pi Imager and preconfigure it with the WiFi and user info.
