@@ -1,0 +1,11 @@
+[Unit]
+Description=A simple web page for viewing a camera stream
+After=multi-user.target
+
+[Service]
+ExecStart=/usr/bin/python /opt/py4cam/mjpeg_server.py
+Type=simple
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
